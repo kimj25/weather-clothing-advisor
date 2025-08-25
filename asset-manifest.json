@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/weather-clothing-advisor/static/css/main.81e66a21.css",
+    "main.js": "/weather-clothing-advisor/static/js/main.9ff82883.js",
+    "index.html": "/weather-clothing-advisor/index.html",
+    "main.81e66a21.css.map": "/weather-clothing-advisor/static/css/main.81e66a21.css.map",
+    "main.9ff82883.js.map": "/weather-clothing-advisor/static/js/main.9ff82883.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81e66a21.css",
+    "static/js/main.9ff82883.js"
+  ]
+}
