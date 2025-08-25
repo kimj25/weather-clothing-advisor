@@ -1,0 +1,61 @@
+/* Weather Clothing Advisor - Main Styles */
+
+.App {
+    text-align: center;
+  }
+  
+  /* Custom styles for better user experience */
+  .weather-app-container {
+    animation: fadeIn 0.5s ease-in;
+  }
+  
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+  
+  /* Responsive adjustments */
+  @media (max-width: 640px) {
+    .weather-app-container {
+      margin: 1rem;
+    }
+  }
+  
+  /* Focus states for accessibility */
+  input:focus,
+  select:focus,
+  button:focus {
+    outline: 2px solid #3B82F6;
+    outline-offset: 2px;
+  }
+  
+  /* Hover effects */
+  button:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 4px 12px rgba(59, 130, 246, 0.3);
+  }
+  
+  /* Custom scrollbar for recommendation area */
+  .recommendation-area::-webkit-scrollbar {
+    width: 6px;
+  }
+  
+  .recommendation-area::-webkit-scrollbar-track {
+    background: #f1f5f9;
+    border-radius: 3px;
+  }
+  
+  .recommendation-area::-webkit-scrollbar-thumb {
+    background: #cbd5e1;
+    border-radius: 3px;
+  }
+  
+  .recommendation-area::-webkit-scrollbar-thumb:hover {
+    background: #94a3b8;
+  }
