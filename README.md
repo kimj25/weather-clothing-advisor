@@ -17,13 +17,6 @@ JavaScript (ES6+)
 Tailwind CSS
 Lucide React (icons)
 
-**Getting Started**
-bashgit clone https://github.com/your-username/weather-clothing-advisor.git
-cd weather-clothing-advisor
-npm install
-npm start
-What's Next
-
 Weather API integration for real-time data
 Save favorite combinations
 AI-powered personalized recommendations
