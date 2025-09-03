@@ -17,6 +17,7 @@ JavaScript (ES6+)
 Tailwind CSS
 Lucide React (icons)
 
+** UPCOMING **
 Weather API integration for real-time data
 Save favorite combinations
 AI-powered personalized recommendations
