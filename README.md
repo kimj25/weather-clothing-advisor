@@ -1,6 +1,6 @@
 # Weather Clothing Advisor 🌦️👔
 
-**[🌐 CLICK HERE FOR VIEW LIVE DEMO](https://kimj25.github.io/weather-clothing-advisor)**
+**[🌐 CLICK HERE FOR VIEW LIVE DEMO](https://weather-clothing-advisor.netlify.app/)**
 
 **Features:**
 
